@@ -1,7 +1,7 @@
 # ✅ Node.js Backend Developer (4.5 Years) Interview Checklist
 
 ## 📌 1. Core JavaScript
-- [ ] var, let, const
+- [x] var, let, const
 - [ ] Hoisting
 - [ ] Scope
 - [ ] Closure
